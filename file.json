@@ -3,12 +3,11 @@
     "judul":"akun percobaan",
     "deskripsi":"akun gratis nih!",
     "harga":1000,
-    "diskon":0
-  },
-  {
-    "judul":"akun keren",
-    "deskripsi":"akun paling keren nih!",
-    "harga":10000,
-    "diskon":0
+    "diskon":0,
+    "gambarUtama":"(url gambar utama)",
+    "gambarLainnya":[
+      "(url gambar yang lain)",
+      "(url gambar yang lain)"
+    ]
   }
 ]
