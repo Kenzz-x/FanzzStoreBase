@@ -4,5 +4,11 @@
     "deskripsi":"akun gratis nih!",
     "harga":1000,
     "diskon":0
+  },
+  {
+    "judul":"akun keren",
+    "deskripsi":"akun paling keren nih!",
+    "harga":10000,
+    "diskon":0
   }
 ]
