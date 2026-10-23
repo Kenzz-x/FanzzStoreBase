@@ -1,13 +1,1 @@
-[
-  {
-    "judul":"akun percobaan",
-    "deskripsi":"akun gratis nih!",
-    "harga":1000,
-    "diskon":0,
-    "gambarUtama":"(url gambar utama)",
-    "gambarLainnya":[
-      "(url gambar yang lain)",
-      "(url gambar yang lain)"
-    ]
-  }
-]
+[]
