@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "judul": "ARFA KAYA KONTOL",
+    "deskripsi": "muka na siga beruk",
+    "harga": 100000,
+    "diskon": 95,
+    "gambarUtama": "https://raw.githubusercontent.com/Kenzz-x/FanzzStoreBase/refs/heads/main/images/arfa-kaya-kontol-mvkfdh9m-0.jpg",
+    "gambarLainnya": [
+      "https://raw.githubusercontent.com/Kenzz-x/FanzzStoreBase/refs/heads/main/images/arfa-kaya-kontol-mvkfdjck-1.jpg"
+    ]
+  }
+]
